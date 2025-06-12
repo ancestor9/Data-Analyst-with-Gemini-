@@ -1,4 +1,4 @@
-## Python Syntax with numpy pandas
+## Python Syntax with numpy & pandas
 
 | Task                         | Single Value                           | Multiple Values                                | numpy, pandas                                         |
 |-----------------------------|----------------------------------------|------------------------------------------------|--------------------------------------------------------|
