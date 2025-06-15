@@ -1,6 +1,7 @@
 ### 남양주시 평생학습센터, [N+미래기술학교]생성형AI&빅데이터 전문가 과정
 - 강의 내용 : 빅데이터를 기반으로 사람들의 행동 패턴과 시장의 경제 상황을 미리 예측하는 역할을 하는 전문가 과정
 - 강의 목적  :
+  
         - LLM(google gemini)를 활용하여 Python으로 VIBE 코딩 실습
         - 프로젝트 기반 학습을 바탕으로 실무와 유사한 환경에서 프로젝트를 완성
 - Syllabus : [강의 내용](https://docs.google.com/document/d/e/2PACX-1vS-tkr7NCxINyR27HfnY3-aCUY27n0iguJiNnKd_k08xYgP-VpCzZl9KGbItsfyCIHu0ha9TE1ZbMVX/pub)
