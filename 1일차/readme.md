@@ -2,7 +2,7 @@
 ### 1. 자료 유형(Data Type)의 이해 및 실습
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20241210131752166623/Python-Data-Types.webp)
 
-### 2. print(), input() 함수
+### 2. print(), input() 내장함수(Built-in Fuction)
 
 ### 3. 1 주차에서 배울 것
 
