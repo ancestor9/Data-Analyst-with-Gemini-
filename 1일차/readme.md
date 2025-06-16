@@ -1,4 +1,4 @@
-## 1일차 
+## 1 일차 
 ### 1. 자료 유형(Data Type)의 이해 및 실습
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20241210131752166623/Python-Data-Types.webp)
 
