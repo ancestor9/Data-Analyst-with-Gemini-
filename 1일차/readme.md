@@ -1,10 +1,10 @@
 ## 1일차 
-### 자료 유형(Data Type)의 이해 및 실습
+### 1. 자료 유형(Data Type)의 이해 및 실습
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20241210131752166623/Python-Data-Types.webp)
 
-### print(), input() 함수
+### 2. print(), input() 함수
 
-## Python Syntax with numpy & pandas
+### 3. 1주차에서 배울 것
 
 | Task                         | Single Value                           | Multiple Values                                | numpy, pandas                                         |
 |-----------------------------|----------------------------------------|------------------------------------------------|--------------------------------------------------------|
