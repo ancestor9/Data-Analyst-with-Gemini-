@@ -1,3 +1,7 @@
+## 1일차 
+### 자료 유형(Data Type)의 이해 및 실습
+### print, input 함수 ![adaf](https://media.geeksforgeeks.org/wp-content/uploads/20241210131752166623/Python-Data-Types.webp)
+
 
 ## Python Syntax with numpy & pandas
 
