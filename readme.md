@@ -6,6 +6,7 @@
        - 프로젝트 기반 학습을 바탕으로 실무와 유사한 환경에서 프로젝트를 완성
   
 - Syllabus : [강의 내용](https://docs.google.com/document/d/e/2PACX-1vS-tkr7NCxINyR27HfnY3-aCUY27n0iguJiNnKd_k08xYgP-VpCzZl9KGbItsfyCIHu0ha9TE1ZbMVX/pub)
+- LLM을 활용한 Python 실습 중심 강의
 
 | 회차 | 주제                                                                 | 날짜         | 요일 | 시간             |
 |------|----------------------------------------------------------------------|--------------|------|------------------|
