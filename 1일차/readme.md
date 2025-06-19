@@ -2,12 +2,14 @@
 ### 실습 (Python과 생성형 AI)
 1. [openai platform](https://platform.openai.com/docs/overview)
 2. google colab (구글 클라우드 가입)
-3. 파이썬 코딩하기 (임의의 N까지 합산하는 프로그램만들기)
-4. claude chat : [groq](https://groq.com/)
-5. openai API와 groq API 성능 비교 (유료와 무료 LLM)
-6. [Token_컴퓨터가 Text를 인지하는 방법](https://platform.openai.com/tokenizer)
-7. [LLM 작동원리](https://huggingface.co/learn/llm-course/chapter1/4?fw=pt)
-
+3. What is a Program?
+4. [What is a algorithm?](https://ko.wikipedia.org/wiki/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+5. 파이썬 코딩하기 (임의의 N까지 합산하는 프로그램만들기)
+6. claude chat : [groq](https://groq.com/)
+7. openai API와 groq API 성능 비교 (유료와 무료 LLM)
+8. [Token_컴퓨터가 Text를 인지하는 방법](https://platform.openai.com/tokenizer)
+9. [LLM 작동원리](https://huggingface.co/learn/llm-course/chapter1/4?fw=pt)
+10. Why Python?
 
 
 ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*FTv0YjReFNoE8phRcfFKBg.png)
