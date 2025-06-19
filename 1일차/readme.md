@@ -21,8 +21,7 @@
 
 ### 2. print(), input() 내장함수(Built-in Fuction)
 
-### 3. 
-### 1 주차에 배울 것
+### 3. 1 주차에 배울 것
 #### Python 기본 문법(데이터형태, 변수, 제어문, 함수, CLass, 모듈 등)
 #### Pandas (엑셀과 같은 tabular 데이터를 핸들링(SQL 포함)하는 패키지)
 #### Data Visualization (Matplotlib, Seaborn,...)
