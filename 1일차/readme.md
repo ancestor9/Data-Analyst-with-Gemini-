@@ -5,7 +5,7 @@
 3. 파이썬 코딩하기 (임의의 N까지 합산하는 프로그램만들기)
 4. claude chat : [groq](https://groq.com/)
 5. openai API와 groq API 성능 비교 (유료와 무료 LLM)
-6. [Token](https://platform.openai.com/tokenizer)
+6. [Token_컴퓨터가 Text를 인지하는 방법](https://platform.openai.com/tokenizer)
 7. [LLM 작동원리](https://huggingface.co/learn/llm-course/chapter1/4?fw=pt)
 
 
