@@ -1,5 +1,5 @@
 ## 실습과제
-### 파이썬 기본문법 사용 ([gradio](https://www.gradio.app/playground)
+### 파이썬 기본문법 사용 ([gradio](https://www.gradio.app/playground))
 
 1. 이름을 입력하면 인사를 하는 프로그램
 2. 이름과 주소를 입력하면 인사와 나의 주소와 어느 정도 거리인지 답해주는 프로그램
