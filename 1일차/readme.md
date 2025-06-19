@@ -35,7 +35,3 @@
 | **Use and reuse**           |                                        |                                                | Functions, Standard libraries, Modules and Packages   |
 | **Input and output**        | Standard I/O, File I/O                 |                                                | Standard I/O, File I/O, CSV, Excel                    |
 
-### 2 주차에 배울것
-#### Machine Learning
-#### Deep Learning
-#### LLM coding
