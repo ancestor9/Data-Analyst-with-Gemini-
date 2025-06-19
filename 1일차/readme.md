@@ -1,6 +1,6 @@
 ## 1 일차 
 ### 실습 (Python과 생성형 AI)
-- Generative AI를 이해하고 왜 Python을 배워야 하는지?
+- Generative AI를 이해하고 왜 Python을 배워야 하는지? 머신러닝에 필수 파이썬?
 1. [openai platform](https://platform.openai.com/docs/overview)
 2. google colab (구글 클라우드 가입)
 3. What is a Program?
