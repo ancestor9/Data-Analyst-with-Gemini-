@@ -7,6 +7,8 @@
 ### 2. [예측 모델 및 모델평가](https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html)
 
 ## 실습과제
+- 아래 UDI 데이터를 다운받아 주요 알고리즘으로 예측모형을 구하라
+- Model = Algorithm(Data)
 - [Click to download UCI Heart Disease Data](https://archive.ics.uci.edu/dataset/45/heart+disease)
   
 - [Build a Classification Model Pipeline](https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501/)
