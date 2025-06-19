@@ -1,5 +1,6 @@
 ## 1 일차 
 ### 실습 (Python과 생성형 AI)
+- 최근 가장 핫한 Generative AI를 이해하고 왜 Python을 배워야 하는지?
 1. [openai platform](https://platform.openai.com/docs/overview)
 2. google colab (구글 클라우드 가입)
 3. What is a Program?
@@ -8,7 +9,7 @@
 6. claude chat : [groq](https://groq.com/)
 7. openai API와 groq API 성능 비교 (유료와 무료 LLM)
 8. [Token_컴퓨터가 Text를 인지하는 방법](https://platform.openai.com/tokenizer)
-9. [LLM 작동원리](https://huggingface.co/learn/llm-course/chapter1/4?fw=pt)
+9. [LLM 작동원리, ](https://huggingface.co/learn/llm-course/chapter1/4?fw=pt)
 10. Why Python?
 
 
