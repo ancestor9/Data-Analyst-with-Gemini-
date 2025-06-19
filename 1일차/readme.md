@@ -2,10 +2,11 @@
 ### 실습 (Python과 생성형 AI)
 1. [openai platform](https://platform.openai.com/docs/overview)
 2. google colab (구글 클라우드 가입)
-3. claude chat : [groq](https://groq.com/)
-4. openai API와 groq API 성능 비교 (유료와 무료 LLM)
-5. [Token](https://platform.openai.com/tokenizer)
-6. 
+3. 파이썬 코딩하기 (임의의 N까지 합산하는 프로그램만들기)
+4. claude chat : [groq](https://groq.com/)
+5. openai API와 groq API 성능 비교 (유료와 무료 LLM)
+6. [Token](https://platform.openai.com/tokenizer)
+7. [LLM 작동원리](https://huggingface.co/learn/llm-course/chapter1/4?fw=pt)
 
 
 
