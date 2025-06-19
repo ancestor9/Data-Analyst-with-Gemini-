@@ -21,7 +21,11 @@
 
 ### 2. print(), input() 내장함수(Built-in Fuction)
 
-### 3. 1 주차에 배울 것
+### 3. 
+### 1 주차에 배울 것
+#### Python 기본 문법(데이터형태, 변수, 제어문, 함수, CLass, 모듈 등)
+#### Pandas (엑셀과 같은 tabular 데이터를 핸들링(SQL 포함)하는 패키지)
+#### Data Visualization (Matplotlib, Seaborn,...)
 
 | Task                         | Single Value                           | Multiple Values                                | numpy, pandas                                         |
 |-----------------------------|----------------------------------------|------------------------------------------------|--------------------------------------------------------|
@@ -30,3 +34,8 @@
 | **Control flow**            |                                        |                                                | `if`, `for`, `while`                                  |
 | **Use and reuse**           |                                        |                                                | Functions, Standard libraries, Modules and Packages   |
 | **Input and output**        | Standard I/O, File I/O                 |                                                | Standard I/O, File I/O, CSV, Excel                    |
+
+### 2 주차에 배울것
+#### Machine Learning
+#### Deep Learning
+#### LLM coding
