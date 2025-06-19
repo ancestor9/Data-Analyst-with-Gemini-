@@ -5,6 +5,7 @@
        - LLM(google gemini)를 활용하여 Python으로 VIBE 코딩 실습
        - 프로젝트 기반 학습을 바탕으로 실무와 유사한 환경에서 프로젝트를 완성
        - 빅데이터분석전문가, 빅데이터분석기사, 시장조사분석가 등 관련 자격증 취득
+- 강사 : ancestor9 (ancestor9@kbu.ac.kr)
   
 - Syllabus : [강의 내용](https://docs.google.com/document/d/e/2PACX-1vS-tkr7NCxINyR27HfnY3-aCUY27n0iguJiNnKd_k08xYgP-VpCzZl9KGbItsfyCIHu0ha9TE1ZbMVX/pub)
 - LLM을 활용한 Python 실습 중심 강의
