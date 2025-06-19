@@ -10,7 +10,7 @@
 7. openai API와 groq API 성능 비교 (유료와 무료 LLM)
 8. [Token_컴퓨터가 Text를 인지하는 방법](https://platform.openai.com/tokenizer)
 9. [LLM 작동원리, Transformer, Chat GPT(Generative Pretrained Transformer)](https://huggingface.co/learn/llm-course/chapter1/4?fw=pt)
-10. Why Python?
+10. [Why Python?](https://www.tiobe.com/tiobe-index/)
 
 
 ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*FTv0YjReFNoE8phRcfFKBg.png)
