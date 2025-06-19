@@ -1,4 +1,9 @@
 ## 1 일차 
+### 실습
+[openai platform](https://platform.openai.com/docs/overview)
+
+
+
 ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*FTv0YjReFNoE8phRcfFKBg.png)
 ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*pQHDovv3Wa7iY1Hy.png)
 ### 1. 자료 유형(Data Type)의 이해 및 실습
