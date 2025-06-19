@@ -1,6 +1,11 @@
 ## 1 일차 
-### 실습
-[openai platform](https://platform.openai.com/docs/overview)
+### 실습 (Python과 생성형 AI)
+1. [openai platform](https://platform.openai.com/docs/overview)
+2. google colab (구글 클라우드 가입)
+3. claude chat : [groq](https://groq.com/)
+4. openai API와 groq API 성능 비교 (유료와 무료 LLM)
+5. [Token](https://platform.openai.com/tokenizer)
+6. 
 
 
 
