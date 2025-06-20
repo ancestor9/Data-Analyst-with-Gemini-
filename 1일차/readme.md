@@ -7,7 +7,7 @@
 4. [What is a algorithm?](https://ko.wikipedia.org/wiki/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 5. 파이썬 코딩하기 (임의의 N까지 합산하는 프로그램만들기)
 6. claude chat : [groq](https://groq.com/)
-7. openai API와 groq API 성능 비교 (유료와 무료 LLM)
+7. openai API와 groq API 성능 비교 (유료와 무료 LLM), Gemini API로 수행
 8. [Token_컴퓨터가 Text를 인지하는 방법](https://platform.openai.com/tokenizer)
 9. [LLM 작동원리, Transformer, Chat GPT(Generative Pretrained Transformer)](https://huggingface.co/learn/llm-course/chapter1/4?fw=pt)
 10. [Why Python?](https://www.tiobe.com/tiobe-index/)
