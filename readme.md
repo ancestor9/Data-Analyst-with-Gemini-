@@ -12,7 +12,7 @@
 ![](https://miro.medium.com/v2/resize:fit:2000/format:webp/0*7jmQojAsLUy_UqmC.png)
 
 | 회차 | 날짜    | 요일 | 시간대 | 주제 (요일별 Mini Project)                                      |
-| -------------- | --- | -- | --- | --------------------------------------- |
+| ------------------------- | --- | -- | --- | --------------------------------------- |
 | 1. 생성형 AI와 Pyhton  | 06.23 | 월  | 오전  | 생성형 AI 개요, ChatGPT, Gemini, Colab |
 |    |       |    | 오후  | Interactive Python, Python Basic Syntax     |
 | 2. Python과 자료 구조      | 06.24 | 화  | 오전  | List, Dictionary 등 자료 구조, 제어문(for~ in, if,..)    |
