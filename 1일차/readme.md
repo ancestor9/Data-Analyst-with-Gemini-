@@ -17,7 +17,6 @@
 
 ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*FTv0YjReFNoE8phRcfFKBg.png)
 ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*pQHDovv3Wa7iY1Hy.png)
-![](https://miro.medium.com/v2/resize:fit:2000/format:webp/0*7jmQojAsLUy_UqmC.png)
 
 ### 1. 자료 유형(Data Type)의 이해 및 실습
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20241210131752166623/Python-Data-Types.webp)
