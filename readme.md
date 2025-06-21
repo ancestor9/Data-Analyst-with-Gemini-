@@ -7,7 +7,7 @@
        - 빅데이터분석전문가, 빅데이터분석기사, 시장조사분석가 등 관련 자격증 취득 
 - Syllabus : [강의 내용](https://docs.google.com/document/d/e/2PACX-1vS-tkr7NCxINyR27HfnY3-aCUY27n0iguJiNnKd_k08xYgP-VpCzZl9KGbItsfyCIHu0ha9TE1ZbMVX/pub)
 - 강의 방식 : LLM을 활용한 Python 실습 중심 강의 (Mini Project Based Learning)
-- 사전 준비 : 구글계정 생성 및 드라이브 실행...........
+- 사전 준비 : 구글계정 생성 및 드라이브 실행(실습)...........
   
 ![](https://miro.medium.com/v2/resize:fit:2000/format:webp/0*7jmQojAsLUy_UqmC.png)
 
