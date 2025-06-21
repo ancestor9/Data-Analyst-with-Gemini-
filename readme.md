@@ -11,40 +11,27 @@
   
 ![](https://miro.medium.com/v2/resize:fit:2000/format:webp/0*7jmQojAsLUy_UqmC.png)
 
-| 회차 | 주제                                                                 | 날짜         | 요일 | 시간             |
-|------|----------------------------------------------------------------------|--------------|------|------------------|
-| 1    | 생성형 AI(ChatGPT, Google AI Studio) LLM과 검색 등                 | 06.23   | 월   | 09:00 ~ 16:00    |
-| 2    | 다중변수의 데이터 형태 - 사전형 자료와 JSON 형태 자료 등           | 06.24   | 화   | 09:00 ~ 16:00    |
-| 3    | Pandas 기초 및 기초 통계분석 (평균, 분산, 상관관계 등)             | 06.25   | 수   | 09:00 ~ 16:00    |
-| 4    | Gapminder를 기반으로 Plotly 시각화 실습 등                         | 06.26   | 목   | 09:00 ~ 16:00    |
-| 5    | 가우시안 나이브 베이즈, 조건부확률 등                               | 06.27   | 금   | 09:00 ~ 16:00    |
-| 6    | 주성분 분석 / 차원 축소 / K-Means, GMM Clustering 등               | 06.30   | 월   | 09:00 ~ 16:00    |
-| 7    | TensorFlow, Keras 활용 / TensorFlow Projector 실습 등              | 07.01   | 화   | 09:00 ~ 16:00    |
-| 8    | 생성형 AI로 요구사항 명세서 작성만으로 코딩 실습 등                | 07.02   | 수   | 09:00 ~ 16:00    |
-| 9    | 소비자 행태 조사 자료 데이터 분석 및 발표 등                        | 07.03   | 목   | 09:00 ~ 16:00    |
-| 10   | 팀별 프로젝트 발표 공유 - 수료식 등                                 | 07.04   | 금   | 09:00 ~ 16:00    |
-
 | 회차 | 날짜    | 요일 | 시간대 | 주제 (요일별 Mini Project)                                      |
 | -------------- | ----- | -- | --- | --------------------------------------- |
 | 1. 생성형 AI와 Pyhton  | 06.23 | 월  | 오전  | 생성형 AI 개요, ChatGPT, Gemini, Colab |
 |    |       |    | 오후  | Interactive Python, Python Basic Syntax     |
 | 2. Python과 자료 구조      | 06.24 | 화  | 오전  | List, Dictionary 등 자료 구조, 제어문(for~ in, if,..)    |
 |    |       |    | 오후  | 함수와 객체, JSON, 모듈과 패키지                      |
-| 3  | 06.25 | 수  | 오전  | Pandas, 기초 통계 분석(평균, 분산, 상관관계 등)                  |
+| 3. Pandas  | 06.25 | 수  | 오전  | Pandas, 기초 통계 분석(평균, 분산, 상관관계 등)                  |
 |    |       |    | 오후  | 서울시 따릉이, 교통사고정보 등 데이터분석(EDA)                |
-| 4  | 06.26 | 목  | 오전  | 시각화, Matplotlib, seaborn, Plotly, folium 지도 시각화          |
+| 4. Data Visualization  | 06.26 | 목  | 오전  | 시각화, Matplotlib, seaborn, Plotly, folium 지도 시각화          |
 |    |       |    | 오후  | Gapminder를 활용한 데이터 분석 및 시각화 실습                      |
-| 5  | 06.27 | 금  | 오전  | 머신러닝 소개, 데이터, 알고리즘, 모델, scikit-learn Estimator API        |
+| 5. Machine Learning - I  | 06.27 | 금  | 오전  | 머신러닝 소개, 데이터, 알고리즘, 모델, scikit-learn Estimator API        |
 |    |       |    | 오후  | Regression, K-nearest Neighbors, Logistic regression, Gaussian Naive, Ensemble     |
-| 6  | 06.30 | 월  | 오전  | 주성분 분석(PCA) 및 차원 축소 이론                  |
+| 6.Machine Learning - II  | 06.30 | 월  | 오전  | 주성분 분석(PCA) 및 차원 축소 이론                  |
 |    |       |    | 오후  | K-Means, GMM을 이용한 클러스터링                 |
-| 7  | 07.01 | 화  | 오전  | Deep Learning, TensorFlow/Keras 구조 이해 및 모델 구성          |
+| 7. Deep Learning  | 07.01 | 화  | 오전  | Deep Learning, TensorFlow/Keras 구조 이해 및 모델 구성          |
 |    |       |    | 오후  | Text Mining과 TensorFlow Projector 실습                 |
-| 8  | 07.02 | 수  | 오전  | 생성형 AI로 요구사항 명세서 작성, Langchain 프로그램 기초(groq)                     |
+| 8. Natural Language Processing  | 07.02 | 수  | 오전  | 생성형 AI로 요구사항 명세서 작성, Langchain 프로그램 기초(groq)                     |
 |    |       |    | 오후  | 명세서 기반 자동코딩 및 결과 해석                     |
-| 9  | 07.03 | 목  | 오전  | 소비자 행태조사 데이터 이해 및 분석 계획 수립              |
+| 9. Final Project  | 07.03 | 목  | 오전  | 소비자 행태조사 데이터 이해 및 분석 계획 수립              |
 |    |       |    | 오후  | 분석 실행 및 결과 시각화 / 발표 준비                  |
-| 10 | 07.04 | 금  | 오전  | 팀별 프로젝트 발표                              |
+| 10.Final Project Presentation | 07.04 | 금  | 오전  | 팀별 프로젝트 발표                              |
 |    |       |    | 오후  | 발표 피드백 및 수료식                            |
 
 
