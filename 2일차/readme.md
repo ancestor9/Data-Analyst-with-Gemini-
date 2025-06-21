@@ -1,9 +1,9 @@
 ## 강의
-### [python-data-types](https://www.geeksforgeeks.org/python/python-data-types/)
+### [1. python-data-types](https://www.geeksforgeeks.org/python/python-data-types/)
 
-### [조건문](https://www.geeksforgeeks.org/python/conditional-statements-in-python/)
+### [2. 조건문](https://www.geeksforgeeks.org/python/conditional-statements-in-python/)
 
-### [반복문](https://www.geeksforgeeks.org/python/loops-in-python/)
+### [3. 반복문](https://www.geeksforgeeks.org/python/loops-in-python/)
 
 ## 실습과제
 ### 파이썬 기본문법 사용 ([gradio](https://www.gradio.app/playground))
