@@ -1,22 +1,12 @@
 ### 남양주시 평생학습센터, [N+미래기술학교]생성형AI&빅데이터 전문가 과정(총 60시간)
-- 강의 내용 : Gemini와 Colab을 바탕으로 Python을 이용하여 데이터의 분석-시각화-예측 등의 skill 배우기
+- 강의 내용 : Google Gemini와 Colab 환경에서 Python을 이용하여 데이터의 분석-시각화-예측 모형 개발 등의 머신러닝 skill 배우기
 - 강의 목적 : 코딩은 AI에게 문제해결을 위한 전략과 방법은 우리가!
 
        - LLM(google gemini)를 활용하여 Python으로 VIBE 코딩 실습
        - 프로젝트 기반 학습을 바탕으로 실무와 유사한 환경에서 프로젝트를 완성
        - 빅데이터분석전문가, 빅데이터분석기사, 시장조사분석가 등 관련 자격증 취득 
 - Syllabus : [강의 내용](https://docs.google.com/document/d/e/2PACX-1vS-tkr7NCxINyR27HfnY3-aCUY27n0iguJiNnKd_k08xYgP-VpCzZl9KGbItsfyCIHu0ha9TE1ZbMVX/pub)
-- 강의 방식 : LLM을 활용한 Python 실습 중심 강의 (PBL, Project Based Learning)
-- 강의 준비 : 구글계정생성 및 드라이브## 남양주시 평생학습센터, [N+미래기술학교]생성형AI&빅데이터 전문가 과정(총 60시간)
-- 강의 내용 : 빅데이터를 기반으로 사람들의 행동 패턴과 시장의 경제 상황을 미리 예측하는 역할을 하는 전문가 과정
-- 강의 목적 :
-
-       - LLM(google gemini)를 활용하여 Python으로 VIBE 코딩 실습
-       - 프로젝트 기반 학습을 바탕으로 실무와 유사한 환경에서 프로젝트를 완성
-       - 빅데이터분석전문가, 빅데이터분석기사, 시장조사분석가 등 관련 자격증 취득
-- 강사 성명 : ancestor9 (ancestor9@kbu.ac.kr)
-- Syllabus : [강의 내용](https://docs.google.com/document/d/e/2PACX-1vS-tkr7NCxINyR27HfnY3-aCUY27n0iguJiNnKd_k08xYgP-VpCzZl9KGbItsfyCIHu0ha9TE1ZbMVX/pub)
-- 강의 방식 : LLM을 활용한 Python 실습 중심 강의 (PBL, Project Based Learning)
+- 강의 방식 : LLM을 활용한 Python 실습 중심 강의 (Mini Project Based Learning)
 - 사전 준비 : 구글계정 생성 및 드라이브 실행...........
   
 ![](https://miro.medium.com/v2/resize:fit:2000/format:webp/0*7jmQojAsLUy_UqmC.png)
@@ -44,13 +34,11 @@
 | 10. 최종과제 발표 | 07.04 | 금  | 오전  | 팀별 프로젝트 발표           |
 |    |       |    | 오후  | 발표 피드백 및 수료식         |
 
-
-
-* 본 강의 내용은 수강자 맞춤형으로 조정 예정.
+* 본 강의 내용은 수강자 맞춤형으로 조정하기로 함
   
 ### 데이터관련 직무? < 데이터관련 Skill
-- LLM의 급격한 기술발전으로 기존의 직무개념은 사라지고 skill(hard and soft skill)이 더 중요한 직업세계 출현
-- 기술 멀미가 나는 세상이 되어버림
+- LLM의 급격한 기술발전으로 기존의 직무 개념은 사라지고 skill(hard and soft skill)이 더 중요해짐
+- 기술떄문에 멀미가 나는 세상이 되어버림
 - [Explore Skills](https://www.oreilly.com/)
   
 #### 🔧 엔지니어 그룹
