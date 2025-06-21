@@ -4,7 +4,7 @@
 ### 2. 따릉이 데이터 기초분석(EDA, Exploratory Data Analysis)
 ### 3. 서울시 따릉이 데이터 전처리 (Data Preprocessin)
 
-### 데이터 전처리 및 시각화(실전 종합과제)
+# 실전 종합과제 (데이터 전처리 및 시각화까지)
 ### 1. 선지후행(先知後行)
 - 문제를 정의하고(Problem Definition)
 - 전체 작업을 설계하고(Process Definition)
