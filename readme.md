@@ -8,6 +8,8 @@
 - 강사 성명 : ancestor9 (ancestor9@kbu.ac.kr)
 - Syllabus : [강의 내용](https://docs.google.com/document/d/e/2PACX-1vS-tkr7NCxINyR27HfnY3-aCUY27n0iguJiNnKd_k08xYgP-VpCzZl9KGbItsfyCIHu0ha9TE1ZbMVX/pub)
 - 강의 방식 : LLM을 활용한 Python 실습 중심 강의 (PBL, Project Based Learning)
+  
+![](https://miro.medium.com/v2/resize:fit:2000/format:webp/0*7jmQojAsLUy_UqmC.png)
 
 | 회차 | 주제                                                                 | 날짜         | 요일 | 시간             |
 |------|----------------------------------------------------------------------|--------------|------|------------------|
