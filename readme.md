@@ -29,6 +29,8 @@
 |    |       |    | 오후  | 업무자동화 도구(make, n8n emd)                 |
 | 8. Natural Language Processing | 07.02 | 수  | 오전  | LLM, Langchain 기초(groq) |
 |    |       |    | 오후  | 명세서 기반 자동코딩 및 결과 해석|
+| 8. Natural Language Processing | 07.02 | 수  | 오전  | LLM, Langchain 기초(groq)   |
+|    |       |    | 오후  | 명세서 기반 자동코딩          |
 | 9. Final Project  | 07.03 | 목  | 오전  | 소비자 행태조사 데이터 이해 및 분석 계획 수립              |
 |    |       |    | 오후  | 분석 실행 및 결과 시각화 / 발표 준비                  |
 | 10. Final Project Presentation | 07.04 | 금  | 오전  | 팀별 프로젝트 발표           |
