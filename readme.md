@@ -17,15 +17,15 @@
 |    |       |    | 오후  | Interactive Python, Python Basic Syntax     |
 | 2. Python과 자료 구조      | 06.24 | 화  | 오전  | List, Dictionary 등 자료 구조, 제어문(for~ in, if,..)    |
 |    |       |    | 오후  | 함수와 객체, JSON, 모듈과 패키지                      |
-| 3. Pandas  | 06.25 | 수  | 오전  | Pandas, 기초 통계 분석(평균, 분산, 상관관계 등)                  |
+| 3. 데이터 처리  | 06.25 | 수  | 오전  | Pandas, 기초 통계 분석(평균, 분산, 상관관계 등)                  |
 |    |       |    | 오후  | 서울시 따릉이, 교통사고정보 등 데이터분석(EDA)                |
-| 4. Data Visualization  | 06.26 | 목  | 오전  | 시각화, Matplotlib, seaborn, Plotly, folium 지도 시각화          |
+| 4. 자료 시각화  | 06.26 | 목  | 오전  | 시각화, Matplotlib, seaborn, Plotly, folium 지도 시각화          |
 |    |       |    | 오후  | Gapminder를 활용한 데이터 분석 및 시각화 실습                      |
-| 5. Machine Learning - I  | 06.27 | 금  | 오전  | 머신러닝 소개, 데이터, 알고리즘, 모델, scikit-learn Estimator API        |
+| 5. 머신러닝L - I  | 06.27 | 금  | 오전  | 머신러닝 소개, 데이터, 알고리즘, 모델, scikit-learn Estimator API        |
 |    |       |    | 오후  | Regression, KNB, Logistic regression, GNB, Ensemble, 최종과제 준비     |
-| 6. Machine Learning - II  | 06.30 | 월  | 오전  | 주성분 분석(PCA) 및 차원 축소 이론                  |
+| 6. 머신러닝 - II  | 06.30 | 월  | 오전  | 주성분 분석(PCA) 및 차원 축소 이론                  |
 |    |       |    | 오후  | K-Means, GMM을 이용한 클러스터링                 |
-| 7. Deep Learning  | 07.01 | 화  | 오전  | Deep Learning, TensorFlow/Keras 구조 이해 및 모델 구성          |
+| 7. 딥러닝  | 07.01 | 화  | 오전  | Deep Learning, TensorFlow/Keras 구조 이해 및 모델 구성          |
 |    |       |    | 오후  | 업무자동화 도구(make, n8n emd)                 |
 | 8. 자연어처리(NLP)     | 07.02 | 수  | 오전  | LLM, Langchain 기초(groq)   |
 |    |       |    | 오후  | 명세서 기반 자동코딩          |
