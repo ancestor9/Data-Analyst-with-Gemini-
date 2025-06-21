@@ -6,4 +6,5 @@
 - [Information is Beautiful](https://informationisbeautiful.net)
 
 ### 2. 단순회귀분석(Simple Regression)
+- [Stochastic Gredient Descent](https://www.kaggle.com/code/ryanholbrook/stochastic-gradient-descent)
 ![Simple Regression](https://storage.googleapis.com/kaggle-media/learn/images/rFI1tIk.gif)
