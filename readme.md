@@ -29,6 +29,7 @@
 ### 데이터관련 직무? < 데이터관련 Skill
 - LLM의 급격한 기술발전으로 기존의 직무개념은 사라지고 skill(hard and soft skill)이 더 중요한 직업세계 출현
 - 기술 멀미가 나는 세상이 되어버림
+- [Explore Skills](https://www.oreilly.com/)
   
 #### 🔧 엔지니어 그룹
 
