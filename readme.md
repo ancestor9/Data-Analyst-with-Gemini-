@@ -21,13 +21,13 @@
 |    |       |    | 오후  | 서울시 따릉이, 교통사고정보 등 데이터분석(EDA)                |
 | 4. Data Visualization  | 06.26 | 목  | 오전  | 시각화, Matplotlib, seaborn, Plotly, folium 지도 시각화          |
 |    |       |    | 오후  | Gapminder를 활용한 데이터 분석 및 시각화 실습                      |
-| 5. Machine Learning - I  | 06.27 | 금  | 오전  | 머신러닝 소개, 데이터, 알고리즘, 모델, scikit-learn Estimator API        |
+| 5. Machine Learning -I  | 06.27 | 금  | 오전  | 머신러닝 소개, 데이터, 알고리즘, 모델, scikit-learn Estimator API        |
 |    |       |    | 오후  | Regression, K-nearest Neighbors, Logistic regression, Gaussian Naive, Ensemble     |
-| 6.Machine Learning - II  | 06.30 | 월  | 오전  | 주성분 분석(PCA) 및 차원 축소 이론                  |
+| 6. Machine Learning -II  | 06.30 | 월  | 오전  | 주성분 분석(PCA) 및 차원 축소 이론                  |
 |    |       |    | 오후  | K-Means, GMM을 이용한 클러스터링                 |
 | 7. Deep Learning  | 07.01 | 화  | 오전  | Deep Learning, TensorFlow/Keras 구조 이해 및 모델 구성          |
 |    |       |    | 오후  | Text Mining과 TensorFlow Projector 실습                 |
-| 8. Natural Language Processing        | 07.02 | 수  | 오전  | 생성형 AI로 요구사항-> code, Langchain 프로그램 기초(groq) |
+| 8. Natural Language Processing| 07.02 | 수  | 오전  | 생성형 AI로 요구사항-> code, Langchain 프로그램 기초(groq) |
 |    |       |    | 오후  | 명세서 기반 자동코딩 및 결과 해석|
 | 9. Final Project  | 07.03 | 목  | 오전  | 소비자 행태조사 데이터 이해 및 분석 계획 수립              |
 |    |       |    | 오후  | 분석 실행 및 결과 시각화 / 발표 준비                  |
