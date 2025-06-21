@@ -1,5 +1,5 @@
 ## 강의
-### [1. python-data-types](https://www.geeksforgeeks.org/python/python-data-types/)
+### [1. 데이터 형태](https://www.geeksforgeeks.org/python/python-data-types/)
 
 ### [2. 조건문](https://www.geeksforgeeks.org/python/conditional-statements-in-python/)
 
