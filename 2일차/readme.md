@@ -1,5 +1,5 @@
 ## 강의
-[](https://www.geeksforgeeks.org/python/python-data-types/)
+[python-data-types](https://www.geeksforgeeks.org/python/python-data-types/)
 
 ## 실습과제
 ### 파이썬 기본문법 사용 ([gradio](https://www.gradio.app/playground))
