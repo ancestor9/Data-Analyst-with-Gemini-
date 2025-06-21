@@ -26,7 +26,7 @@
 | 6. Machine Learning -II  | 06.30 | 월  | 오전  | 주성분 분석(PCA) 및 차원 축소 이론                  |
 |    |       |    | 오후  | K-Means, GMM을 이용한 클러스터링                 |
 | 7. Deep Learning  | 07.01 | 화  | 오전  | Deep Learning, TensorFlow/Keras 구조 이해 및 모델 구성          |
-|    |       |    | 오후  | Text Mining과 TensorFlow Projector 실습                 |
+|    |       |    | 오후  | 업무자동화 도구(make, n8n emd)                 |
 | 8. Natural Language Processing      | 07.02 | 수 | 오전  | LLM, Langchain 프로그램 기초(groq) |
 |    |       |    | 오후  | 명세서 기반 자동코딩 및 결과 해석|
 | 9. Final Project  | 07.03 | 목  | 오전  | 소비자 행태조사 데이터 이해 및 분석 계획 수립              |
