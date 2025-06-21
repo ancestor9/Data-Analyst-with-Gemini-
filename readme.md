@@ -27,11 +27,11 @@
 |    |       |    | 오후  | K-Means, GMM을 이용한 클러스터링                 |
 | 7. Deep Learning  | 07.01 | 화  | 오전  | Deep Learning, TensorFlow/Keras 구조 이해 및 모델 구성          |
 |    |       |    | 오후  | Text Mining과 TensorFlow Projector 실습                 |
-| 8. Natural Language Processing  | 07.02 | 수  | 오전  | 생성형 AI로 요구사항 명세서 작성, Langchain 프로그램 기초(groq)                     |
-|    |       |    | 오후  | 명세서 기반 자동코딩 및 결과 해석                     |
+| 8. Natural Language Processing  | 07.02 | 수  | 오전  | 생성형 AI로 요구사항 명세서 작성, Langchain 프로그램 기초(groq) |
+|    |       |    | 오후  | 명세서 기반 자동코딩 및 결과 해석 |
 | 9. Final Project  | 07.03 | 목  | 오전  | 소비자 행태조사 데이터 이해 및 분석 계획 수립              |
 |    |       |    | 오후  | 분석 실행 및 결과 시각화 / 발표 준비                  |
-| 10.Final Project Presentation | 07.04 | 금  | 오전  | 팀별 프로젝트 발표           |
+| 10. Final Project Presentation | 07.04 | 금  | 오전  | 팀별 프로젝트 발표           |
 |    |       |    | 오후  | 발표 피드백 및 수료식         |
 
 
