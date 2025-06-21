@@ -1,3 +1,5 @@
+[](https://www.ml4devs.com/images/illustrations/traditional-program-vs-machine-learning.webp)
+
 ## 지도학습(Supervised Learing) 데이터 형태
 - 과거 데이터로 예측하고자 한다면 X, y가 무엇인지 모델링하는 것이 가장 중요
 - y(label)는 X(Feature)를 지도(Supervise)한다고 해서 지도학습, y가 없으면 비지도학습
