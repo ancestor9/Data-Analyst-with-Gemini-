@@ -28,7 +28,7 @@
 | -- | ----- | -- | --- | --------------------------------------- |
 | 1. 생성형 AI와 Pyhton  | 06.23 | 월  | 오전  | 생성형 AI 개요, ChatGPT, Gemini, Colab |
 |    |       |    | 오후  | Interactive Python, Python Basic Syntax                            |
-| 2. Python과 자료 구조  | 06.24 | 화  | 오전  | List, Dictionary 등 자료 구조, 제어문(for~ in, if,..)                  |
+| 2. Python과 자료 구조      | 06.24 | 화  | 오전  | List, Dictionary 등 자료 구조, 제어문(for~ in, if,..)                  |
 |    |       |    | 오후  | 함수와 객체, JSON, 모듈과 패키지                      |
 | 3  | 06.25 | 수  | 오전  | Pandas, 기초 통계 분석(평균, 분산, 상관관계 등)                  |
 |    |       |    | 오후  | 서울시 따릉이, 교통사고정보 등 데이터분석(EDA)                |
