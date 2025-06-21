@@ -1,6 +1,7 @@
 ## 1 일차 
 ### 실습 (Python과 생성형 AI)
 - Generative AI를 이해하고 왜 Python을 배워야 하는지? 머신러닝에 파이썬?
+- 생성형 AI로 학생이 만든 AI Tutor 소개
 1. [openai platform](https://platform.openai.com/docs/overview)
 2. [google colab](https://colab.research.google.com/) : Gemini (LLM)
 3. What is a Program?
