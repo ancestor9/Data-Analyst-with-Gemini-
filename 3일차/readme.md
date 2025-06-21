@@ -1,6 +1,6 @@
 ## 3 일차
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-![](https://m.media-amazon.com/images/I/91Yqv5wWuPL.jpg, width=300 height=300)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOpyvf8OAZ_zyuEyXoyuWkcrQdXQR0sOMrOg&s)
 
 ### 1. [서울시 따릉이 데이터](https://data.seoul.go.kr/dataList/OA-15182/F/1/datasetView.do) 수집
 ### 2. 따릉이 데이터 기초분석(EDA, Exploratory Data Analysis)
