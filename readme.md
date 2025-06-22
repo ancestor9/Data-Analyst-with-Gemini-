@@ -23,7 +23,7 @@
 |    |       |    | 오후  | Gapminder를 활용한 데이터 분석 및 시각화 실습                      |
 | 5. 머신러닝L - I  | 06.27 | 금  | 오전  | 머신러닝 소개, 데이터, 알고리즘, 모델, scikit-learn Estimator API        |
 |    |       |    | 오후  | Regression, KNB, Logistic regression, GNB, Ensemble, 최종과제 준비     |
-| 6. 머신러닝 - II  | 06.30 | 월  | 오전  | 주성분 분석(PCA) 및 차원 축소 이론                  |
+| 6. 머신러닝 - II  | 06.30 | 월  | 오전  | 모델선택과 평가, 주성분 분석(PCA)                  |
 |    |       |    | 오후  | K-Means, GMM을 이용한 클러스터링                 |
 | 7. 딥러닝  | 07.01 | 화  | 오전  | Deep Learning, TensorFlow/Keras 구조 이해 및 모델 구성          |
 |    |       |    | 오후  | 업무자동화 도구(make, n8n emd)                 |
