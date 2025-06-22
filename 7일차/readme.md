@@ -6,3 +6,6 @@
 ![](https://learning.oreilly.com/library/cover/9781492032632/250w/)
 [github](https://github.com/ageron/handson-ml3)
 [pdf](http://14.139.161.31/OddSem-0822-1122/Hands-On_Machine_Learning_with_Scikit-Learn-Keras-and-TensorFlow-2nd-Edition-Aurelien-Geron.pdf)
+
+![](https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/9781617296864.jpg)
+[pdf](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf)
